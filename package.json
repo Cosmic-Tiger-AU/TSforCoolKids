@@ -2,6 +2,10 @@
   "name": "ts-for-cool-kids",
   "displayName": "TS for Cool Kids",
   "description": "yeah look mate as above",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cosmic-Tiger-AU/TSforCoolKids"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
