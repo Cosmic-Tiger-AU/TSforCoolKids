@@ -1,0 +1,32 @@
+{
+  "name": "ts-for-cool-kids",
+  "displayName": "TS for Cool Kids",
+  "description": "yeah look mate as above",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "mikestead.dotenv",
+    "PKief.material-icon-theme",
+    "WallabyJs.console-ninja",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "chrisbibby.hide-node-modules",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vsliveshare.vsliveshare",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "Prisma.prisma",
+    "GraphQL.vscode-graphql",
+    "WallabyJs.quokka-vscode",
+    "RobbOwen.synthwave-vscode",
+    "redhat.vscode-yaml",
+    "arcanis.vscode-zipfs",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
